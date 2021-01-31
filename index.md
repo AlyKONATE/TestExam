@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AlyKONATE/TestExam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe title=" Principaux établissement de l'enseignement supérieur" aria-label="Interactive area chart" id="datawrapper-chart-ymLDY" src="https://datawrapper.dwcdn.net/ymLDY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 ### Markdown
 
